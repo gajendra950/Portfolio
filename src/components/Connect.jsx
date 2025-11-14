@@ -5,7 +5,7 @@ export default function Connections() {
     {
       name: "LinkedIn",
       icon: <Linkedin size={32} className="text-blue-600 dark:text-blue-400" />,
-      url: "https://www.linkedin.com/in/your-profile",
+      url: "https://www.linkedin.com/in/gajendra-kumar-2b1589259/",
       color: "hover:bg-blue-100 dark:hover:bg-blue-900/40",
     },
     {

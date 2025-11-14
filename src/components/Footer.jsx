@@ -5,7 +5,7 @@ export default function Footer() {
     {
       name: "LinkedIn",
       icon: <Linkedin size={22} />,
-      url: "https://www.linkedin.com/in/your-profile",
+      url: "https://www.linkedin.com/in/gajendra-kumar-2b1589259/",
     },
     {
       name: "Instagram",
@@ -20,7 +20,7 @@ export default function Footer() {
     {
       name: "GitHub",
       icon: <Github size={22} />,
-      url: "https://github.com/your-profile",
+      url: "https://github.com/gajendra950",
     },
   ];
 
